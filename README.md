@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevWaz
+- 👋 Hi, I’m @devWaz
 - 👀 I’m interested in learning & improving my programming skills
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on new projects
