@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devWaz
 - 👀 I’m interested in learning & improving my programming skills
-- 🌱 I’m currently learning javascript
+- 🌱 I’m proficient in HTML & CSS and currently learning javascript
 - 💞️ I’m looking to collaborate on new projects
 - 📫 You can reach me on fawazodessy@gmail.com
 
