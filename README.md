@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devWaz
+- 👋 Hi, I’m @heyFawaz
 - 👀 I’m interested in learning & improving my programming skills
 - 🌱 I’m proficient in HTML & CSS and currently learning javascript
 - 💞️ I’m looking to collaborate on new projects
