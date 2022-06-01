@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Lagos, Nigeria
 
-- 🌱 I’m proficient in **HTML , CSS & JavaScript and currently learning and React.**
+- 🌱 I’m proficient in **HTML , CSS & JavaScript and currently learning React.**
 
 - 👯 I’m looking to contribute to **Open Source projects**
 
