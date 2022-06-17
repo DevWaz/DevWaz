@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fawaz Odesanya</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">I'm a Software Developer (MERN)</h3>
 
 
 * 🌍  I'm based in Lagos, Nigeria
