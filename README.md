@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Lagos, Nigeria
 
-- 🖥️  Check out my portfolio <a href="https:///heyfawaz.netlify.app">here</a>
+- 🖥️  Check out my portfolio <a href="">here</a>
 
 - 🌱 I’m currently learning React & Redux
 
