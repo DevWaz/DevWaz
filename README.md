@@ -1,15 +1,15 @@
 <h1>Hi 👋, My name is Fawaz Odesanya</h1>
 <h3>I'm a Fullstack Software Developer (MERN , Blockchain)</h3>
 
-##### - 🌍  I'm currently based in Lagos, Nigeria
+#### - 🌍  I'm currently based in Lagos, Nigeria
 
-##### - 🖥️  See my portfolio at <a href="">heyFawaz</a>
+#### - 🖥️  See my portfolio at <a href="">heyFawaz</a>
 
-##### - 🌱 I’m currently learning Ethereum Blockchain Development
+#### - 🌱 I’m currently learning Ethereum Blockchain Development
 
-##### - 👯 I'm open to collaborating / freelancing on interesting projects as a React / Node.js developer
+#### - 👯 I'm open to collaborating / freelancing on interesting projects as a React / Node.js developer
 
-##### - 📫 You can reach me at **fawazodessy@gmail.com**
+#### - 📫 You can reach me at **fawazodessy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
