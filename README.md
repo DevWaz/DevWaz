@@ -1,15 +1,12 @@
 <h1>Hi 👋, My name is Fawaz Odesanya</h1>
 <h3>I'm a Fullstack Software Developer (MERN , Blockchain)</h3>
 
-#### - 🌍  I'm currently based in Lagos, Nigeria
-
-#### - 🖥️  See my portfolio at <a href="">heyFawaz</a>
-
-#### - 🌱 I’m currently learning Ethereum Blockchain Development
-
-#### - 👯 I'm open to collaborating / freelancing on interesting projects as a React / Node.js developer
-
-#### - 📫 You can reach me at **fawazodessy@gmail.com**
+##### - 🌍  I'm currently based in Lagos, Nigeria
+##### - 🖥️  See my portfolio at <a href="">heyFawaz</a>
+##### - 🌱 I’m currently learning Ethereum Blockchain Development
+##### - 👯 I'm open to collaborating / freelancing on interesting projects as a React / Node.js developer
+##### - 📫 You can reach me at **fawazodessy@gmail.com**
+##### - ⚡  I'm secretly Black Panther... but don't tell anyone
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +27,7 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
   <p align="left">
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
